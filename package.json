@@ -1,0 +1,22 @@
+{
+  "name": "isolated-bootstrap",
+  "version": "1.0.0",
+  "description": "If you decided to use Bootstrap in several places of your site but including Bootstrap CSS rewrites your styles in other places you should use these CSS files to isolate Bootstrap CSS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/motordigital/Isolated-Bootstrap.git"
+  },
+  "keywords": [
+    "bootstrap"
+  ],
+  "author": "Kondakov Valeriy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/motordigital/Isolated-Bootstrap/issues"
+  },
+  "homepage": "https://github.com/motordigital/Isolated-Bootstrap#readme"
+}
